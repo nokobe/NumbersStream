@@ -1,0 +1,6 @@
+Numbers is a project that can be used on the command line to produce a sequence of numbers.
+
+eg.
+	Numbers  --- produces a continuous stream of incrementing numbers starting from 1
+	Numbers 1 10 2		--- produces a sequence that starts from 1, increments by 2, up to a maximum of 10
+
